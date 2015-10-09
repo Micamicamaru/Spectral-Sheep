@@ -1,3 +1,7 @@
+Using HTML 5 UP Base Spectral to build Spectral Sheep. Read me underneath details Spetral's features that the creator has included. Nice Job.
+
+
+
 Spectral by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
