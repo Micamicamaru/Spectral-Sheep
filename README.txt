@@ -1,4 +1,5 @@
-Using HTML 5 UP Base Spectral to build Spectral Sheep. Read me underneath details Spetral's features that the creator has included. Nice Job.
+Using HTML 5 UP Base Spectral to build Spectral Sheep. 
+Read me underneath details Spetral's features that the creator has included. Nice Job.
 
 
 
